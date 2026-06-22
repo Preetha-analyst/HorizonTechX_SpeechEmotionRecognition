@@ -236,7 +236,17 @@ Features:
 ---
 
 ##  Outputs
+### Confusion Matrix
 
+![Confusion Matrix](Screenshot_22-6-2026_141136_colab.research.google.com.jpeg)
+
+### Gradio User Interface
+
+![Gradio UI](Screenshot_22-6-2026_141427_colab.research.google.com.jpeg)
+
+### Training Curves / Evaluation Output
+
+![Training Output](Screenshot_22-6-2026_141211_colab.research.google.com.jpeg)
 
 ---
 
@@ -268,4 +278,5 @@ Through this project, the following concepts were learned:
 ##  Conclusion
 
 This project successfully developed a Speech Emotion Recognition system using audio feature extraction and Deep Learning techniques. The system can classify five different emotions from speech recordings and provide real-time predictions through a Gradio web application. The project demonstrates the practical use of Artificial Intelligence, Digital Signal Processing, and Deep Learning in Human-Computer Interaction applications.
+
 # HorizonTechX_SpeechEmotionRecognition
